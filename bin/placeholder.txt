@@ -1,0 +1,2 @@
+I am not sure if I set this up correctly, but this is the folder where the generated class files will go.
+Github doesn't allow empty folders to be added so here is a placeholder
