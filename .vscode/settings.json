@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/usr/local/lib/jar/asm-util-9.2.jar",
+        "/usr/local/lib/jar/asm-9.2.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}
