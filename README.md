@@ -4,4 +4,4 @@
 > java filename \
 > cd .. \
 > cd bin \
-> java classname \
+> java classname
